@@ -1,2 +1,2 @@
-# Alura_Courses
-Repositório para disposição de todos os projetos e conhecimento adquiridos na plataforma de cursos Alura. Todos os projetos deverão acompanhar um arquivo README, dispondo de instruções a respeito do projeto em questão.
+# Alura_Plus
+Repositório para disposição do projeto realizado no curso HTML e CSS na plataforma de cursos Alura. O projeto em questão, assim como os futuros dispostos no GitHub, deverão acompanhar um arquivo README, dispondo de instruções a respeito do projeto em questão.
